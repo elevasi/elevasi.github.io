@@ -11,9 +11,7 @@ nav {
     background: rgba(99, 99, 180, 4)
 }
 nav .logo img {
-
     height: 100%;
-    %;
 }
 
 nav .MENU {
@@ -36,6 +34,15 @@ nav .nav-wrapper {
     width: 80%;
     height: 100%;
 }
+
+    @media screen and (max-width: 720px) 
+
+        nav nav.wrapper {
+width: 100%;
+
+        }
+    
+
 
 ul {
 
